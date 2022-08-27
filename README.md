@@ -12,6 +12,3 @@ Input:
 Output:
    - simple interest = p*t*r
 
-This is the final project from the following course :
-
-![IBM_Getting Started With Git and GitHub_](https://user-images.githubusercontent.com/79074359/176373368-db339888-a916-477f-b027-759ca06f516c.png)
