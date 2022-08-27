@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # cskang0121
+   # AbhiiT7
 
    # Input:
    # p, principal amount
@@ -26,18 +26,3 @@
    s=`expr $p \* $t \* $r / 100`
    echo "The simple interest is: "
    echo $s
-Save the URL of simple-interest.sh file in a notepad to submit later for peer review.
-
-Task 7: Add your GitHub username to the authors section
-Edit the simple-interest.sh file in GitHub editor using the pencil icon.
-
-Replace <your GitHub username> with your GitHub username.
-
-You will be asked for the same GitHub username in the submission.
-
-Checklist
-Save your notepad file locally for use in your submission later in this course. Check that you have all 7 URLs noted.
-
-Author(s)
-Upkar Lidder
-Chan
